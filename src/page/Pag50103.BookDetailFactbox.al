@@ -10,9 +10,11 @@ page 50103 "BookDetailFactbox"
             field("No."; "No.")
             {
                 ApplicationArea = All;
+                DrillDown = true;
+
                 trigger OnDrillDown();
                 begin
-                    Page.Run(Page::"Book Card", Rec);
+                    ShowDetails();
                 end;
             }
             field(Title; Title)
@@ -30,4 +32,9 @@ page 50103 "BookDetailFactbox"
 
         }
     }
+
+    local procedure ShowDetails();
+    begin
+        Page.Run(Page::"Book Card", Rec);
+    end;
 }
