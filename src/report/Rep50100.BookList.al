@@ -4,7 +4,7 @@ report 50100 "BookList"
     ApplicationArea = All;
     UsageCategory = ReportsAndAnalysis;
     DefaultLayout = RDLC;
-    RDLCLayout = '50100.rdl';
+    RDLCLayout = '.\src\report\50100.rdl';
 
     dataset
     {
