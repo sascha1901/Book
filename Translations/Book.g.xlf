@@ -33,6 +33,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Book - Field Page Count - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1606545787 - Field 4260162483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Book - Field No. of Customers - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2783743311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -52,6 +57,11 @@
           <source>Books</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Book List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 339753932 - Control 2922288711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardBookExtension - Control BookDetailFactbox - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3969279712 - Field 150268382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Favorite Book No.</source>

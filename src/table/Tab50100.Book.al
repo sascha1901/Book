@@ -32,6 +32,13 @@ table 50100 "Book"
             DataClassification = CustomerContent;
             Caption = 'Page Count';
         }
+        field(10; "No. of Customers"; Integer)
+        {
+            FieldClass = FlowField;
+            CalcFormula = count(Customer where("Favorite Book No."=field("No.")));
+            Caption = 'No. of Customers';
+            Editable = false;
+        }
     }
 
     keys
