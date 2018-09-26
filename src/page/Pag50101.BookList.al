@@ -68,6 +68,5 @@ page 50101 "Book List"
                 RunObject = report BookList;
             }
         }
-    }
-    
+    }   
 }
