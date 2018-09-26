@@ -78,5 +78,5 @@ report 50100 "BookList"
     var
         PrintPageCount: Boolean;
         ReportCaption: Label 'Book List';
-        PageCaption: label 'Page %1 of %2';
+        PageCaption: label 'Page {0} of {1}';
 }

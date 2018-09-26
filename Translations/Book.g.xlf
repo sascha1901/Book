@@ -79,7 +79,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Report BookList - NamedType ReportCaption</note>
         </trans-unit>
         <trans-unit id="Report 685750181 - NamedType 501693335" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Page %1 of %2</source>
+          <source>Page {0} of {1}</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report BookList - NamedType PageCaption</note>
         </trans-unit>

@@ -744,7 +744,7 @@
                 <Paragraph>
                   <TextRuns>
                     <TextRun>
-                      <Value>=Replace(Replace(First(Fields!PageCaption.Value, "DataSet_Result"), "%1", Globals!PageNumber), "%2", Globals!TotalPages)</Value>
+                      <Value>=string.Format(First(Fields!PageCaption.Value, "DataSet_Result"), Globals!PageNumber, Globals!TotalPages)</Value>
                       <Style>
                         <FontFamily>Segoe UI</FontFamily>
                       </Style>
