@@ -1,0 +1,25 @@
+{
+  "id": "054f05e4-79d7-4aa3-83e6-bfffeb369e2e",
+  "name": "Book",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+"features": [
+  "TranslationFile"
+]
+}
