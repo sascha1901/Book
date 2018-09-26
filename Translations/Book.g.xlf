@@ -58,6 +58,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Book List - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 3565700325 - Action 219703930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Book List - Action ExportBooks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3565700325 - Action 603857629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Books</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Book List - Action PrintBooks - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Report 685750181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book List</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -82,6 +92,11 @@
           <source>Page {0} of {1}</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report BookList - NamedType PageCaption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 219703930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Books</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort ExportBooks - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 339753932 - Control 2922288711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book Details</source>
