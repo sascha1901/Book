@@ -58,6 +58,31 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Book List - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 685750181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BookList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 685750181 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BookList - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 685750181 - Control 2919651707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Page Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BookList - Control PrintPageCount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 685750181 - NamedType 253704284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BookList - NamedType ReportCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 685750181 - NamedType 501693335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BookList - NamedType PageCaption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 339753932 - Control 2922288711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book Details</source>
           <note from="Developer" annotates="general" priority="2"></note>
