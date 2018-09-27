@@ -68,6 +68,126 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Book List - Action PrintBooks - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 3955125704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comapny Wizard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 1121962313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control StandardBanner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 300852202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control FinishedBanner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 1326315983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome to PageName Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Welcome to PageName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 1612614122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Group18 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 1612614122 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Step1 - Replace this text with some instructions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Group18 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 966287263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 3647570164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Let's go!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Let's go! - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 727926705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Group22 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 727926705 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Step1 - Replace this text with some more instructions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Group22 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 2279239964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Step2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 2279239964 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Step2 - Replace this text with some instructions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Step2 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 2306852000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 1365623322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Group23 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 1365623322 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Step3 - Replace this text with some instructions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Group23 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 1546979963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>That's it!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control That's it! - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 2641016556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Group25 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Control 2641016556 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To save this setup, choose Finish.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Control Group25 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Action ActionNext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3955125704 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Company Wizard - Action ActionFinish - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Report 685750181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book List</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -102,6 +222,11 @@
           <source>Book Details</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardBookExtension - Control BookDetailFactbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2232962532 - Action 1115599849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wizard she</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CompanyinfoExtension - Action myWizard - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3969279712 - Field 150268382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Favorite Book No.</source>
