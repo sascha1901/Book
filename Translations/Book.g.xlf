@@ -38,6 +38,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Book - Field No. of Customers - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2613392281 - NamedType 637803153" size-unit="char" translate="no" xml:space="preserve">
+          <source>dad7f25b-5612-4edf-85d6-15757c6b2321</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Company Information Notif. - NamedType CompInfoNotificationID</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2613392281 - NamedType 3504626253" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Information is missing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Company Information Notif. - NamedType CompInfoNotificationMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2613392281 - NamedType 841321599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Company Information Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Company Information Notif. - NamedType CompInfoNotificationActionMsg</note>
+        </trans-unit>
         <trans-unit id="Page 2783743311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
